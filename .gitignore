@@ -8,3 +8,8 @@ id-service
 # Environment files
 .env
 .env.*
+
+# Ignore temporary & system files
+*.log
+*.tmp
+.DS_Store
